@@ -1,5 +1,6 @@
 <template>
   <v-btn> Button </v-btn>
+  <v-btn> Button2 </v-btn>
 </template>
 
 <script>
